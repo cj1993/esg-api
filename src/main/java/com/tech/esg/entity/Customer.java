@@ -36,6 +36,7 @@ public class Customer {
         this.postcode = postcode;
     }
 
+    // For hibernate
     public Customer(){}
 
     public String getCustomerRef() {
